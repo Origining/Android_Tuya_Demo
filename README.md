@@ -1,0 +1,2 @@
+# Android_Tuya_Demo
+Test_for_Tuya_Android_SDK
